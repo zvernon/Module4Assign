@@ -1,0 +1,7 @@
+section.area1 {background-color: #FFFFCC; visibility: hidden;}
+section.area2 {background-color: #DCDCDC; visibility: hidden;}
+section.area1 {width: 600px;}
+section.area2 {width: 600px;}
+section.area1 {position: fixed; left: 5px; top: 150px;}
+section.area2 {position: fixed; left: 5px; top: 150px;}
+
